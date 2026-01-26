@@ -1,6 +1,6 @@
 ## ¡Hola!
 
-***Creator of:***
+***I am the creator of:***
 <br />
 <br />
 <img src="aument-h-modified.png" width="100" style="border-radius: 60px; vertical-align: middle;" />
